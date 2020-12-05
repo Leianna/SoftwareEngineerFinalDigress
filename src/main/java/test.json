@@ -1,0 +1,52 @@
+{
+  "id" : 1,
+  "title" : "Story",
+  "rootContent" : "This is test content for the root",
+  "root" : {
+    "id" : 1,
+    "storyContent" : "This is test content for the root",
+    "endNode" : false
+  },
+  "currentNode" : {
+    "id" : 4,
+    "storyContent" : "more content",
+    "endNode" : false
+  },
+  "storyNodes" : {
+    "1" : {
+      "id" : 1,
+      "storyContent" : "This is test content for the root",
+      "endNode" : false
+    },
+    "2" : {
+      "id" : 2,
+      "storyContent" : "Content for the first child",
+      "endNode" : false
+    },
+    "3" : {
+      "id" : 3,
+      "storyContent" : "additional content for another node",
+      "endNode" : false
+    },
+    "4" : {
+      "id" : 4,
+      "storyContent" : "more content",
+      "endNode" : false
+    }
+  },
+  "nodeConnections" : {
+    "1" : [ 2, 4 ],
+    "2" : [ 3 ],
+    "3" : [ ],
+    "4" : [ ]
+  },
+  "nodeConditions" : {
+    "1" : [ "First choice", "Third choice" ],
+    "2" : [ "Second choice" ],
+    "3" : [ ],
+    "4" : [ ]
+  },
+  "tags" : [ ],
+  "count" : 3,
+  "nextConditions" : [ ]
+}

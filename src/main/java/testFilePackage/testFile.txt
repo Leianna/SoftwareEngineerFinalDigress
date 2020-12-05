@@ -1,0 +1,11 @@
+You are walking down a dark, dingy hallway. Where would you like to go?
+[1]Continue straight
+[2]Take a left
+[3]Turn right
+[4]test four
+[5]test five
+[6]test six
+[7]test seven
+[8]test eight
+[9]test nine
+[10]test ten

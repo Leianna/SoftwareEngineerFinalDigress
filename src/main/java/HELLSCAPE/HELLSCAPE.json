@@ -1,0 +1,150 @@
+{
+  "id" : 399,
+  "title" : "HELLSCAPE",
+  "rootContent" : "Once upon a time, James Gosling invented Java. Only he knew the hell his creation would unleash on Earth for years to come. Having achieved his sadistic goal of making college students deal with annoying errors that are stupid and should not exist,he spends his days sitting atop the Throne of Hell. It is up to you, a student who dealt with an incredibly annoying error for hours on end, to enter the depths of Hell and vanquish his soul from existence. Choose your weapon:",
+  "root" : {
+    "id" : 1,
+    "storyContent" : "Once upon a time, James Gosling invented Java. Only he knew the hell his creation would unleash on Earth for years to come. Having achieved his sadistic goal of making college students deal with annoying errors that are stupid and should not exist,he spends his days sitting atop the Throne of Hell. It is up to you, a student who dealt with an incredibly annoying error for hours on end, to enter the depths of Hell and vanquish his soul from existence. Choose your weapon:",
+    "endNode" : false
+  },
+  "currentNode" : {
+    "id" : 18,
+    "storyContent" : "You think back to the website that looks like it was made in 2004 that listed all those principles. Even the still-active website for SPACE JAM looks better than that. Nevertheless, you rattle off those principles like you learned them along with your ABC's. James is astonished. \"HOW?!?\" The door magically fixes itself somehow and opens, freeing Toby. Your conveying of information in face-to-face conversation, which according to the principles is the most efficient and effective method of doing so, must have inspired the door to act in your favor. James runs towards the both of you, leaving his guard down. You channel all of your anger into your blade and end your journey with one devastating blow. It's finally over. Toby thanks you for freeing him and commends you for your knowledge of agile development.",
+    "endNode" : true
+  },
+  "storyNodes" : {
+    "1" : {
+      "id" : 1,
+      "storyContent" : "Once upon a time, James Gosling invented Java. Only he knew the hell his creation would unleash on Earth for years to come. Having achieved his sadistic goal of making college students deal with annoying errors that are stupid and should not exist,he spends his days sitting atop the Throne of Hell. It is up to you, a student who dealt with an incredibly annoying error for hours on end, to enter the depths of Hell and vanquish his soul from existence. Choose your weapon:",
+      "endNode" : false
+    },
+    "2" : {
+      "id" : 2,
+      "storyContent" : "James is responsible for you spending your precious time trying to figure out the error that is described in this link: https://www.geeksforgeeks.org/why-is-scanner-skipping-nextline-after-use-of-other-next-functions/ You have decided that the best way to end the suffering of student programmers everywhere is to decapitate James with your Hellblade.",
+      "endNode" : false
+    },
+    "3" : {
+      "id" : 3,
+      "storyContent" : "James is responsible for you spending your precious time trying to figure out the error that is described in this link: https://www.geeksforgeeks.org/why-is-scanner-skipping-nextline-after-use-of-other-next-functions/ You have decided that the best way to end the suffering of student programmers everywhere is to disembowel James with your Hellscythe.",
+      "endNode" : false
+    },
+    "4" : {
+      "id" : 4,
+      "storyContent" : "Which Circle of Hell would you like to search?",
+      "endNode" : false
+    },
+    "5" : {
+      "id" : 5,
+      "storyContent" : "Prerequisites: COMP 21000  minimum grade of D-   and COMP 31100  minimum grade of D-. You cannot access this Circle.",
+      "endNode" : false
+    },
+    "6" : {
+      "id" : 6,
+      "storyContent" : "You enter the ICCS Lounge. The entrance locks behind you. You're trapped for eternity.",
+      "endNode" : true
+    },
+    "7" : {
+      "id" : 7,
+      "storyContent" : "Prerequisites: COMP 31100  minimum grade of D-. You cannot access this Circle.",
+      "endNode" : false
+    },
+    "8" : {
+      "id" : 8,
+      "storyContent" : "You enter Williams 309 to find Paul Dickson toying around on his laptop. You approach from behind to find that he is working in UNREAL ENGINE, software that gives Java a run for it's money when it comes to crushing souls. You're kind of interested to see what he's working on. Risk getting caught or go back?",
+      "endNode" : false
+    },
+    "9" : {
+      "id" : 9,
+      "storyContent" : "You flew too close to the Sun. Paul hears you and immediately turns around. The entrance seals itself shut behind you. \"The only way to escape is to make a fully functional remake of the classic iOS game, 'Flappy Bird'\". You accept the challenge and begin working. You finish compiling everything in a few hours, all you need to do is render everything. As you start the rendering process you realize there was never any real chance of escape. You spend the rest of your life waiting for it to finish, and die at 46% completion. Tough luck.",
+      "endNode" : true
+    },
+    "10" : {
+      "id" : 10,
+      "storyContent" : "Prerequisites: MATH 11200  minimum grade of C-. As a student who decided to pursue a BA rather than a BS due to an inherent disdain for math, you cannot access this Circle.",
+      "endNode" : false
+    },
+    "11" : {
+      "id" : 11,
+      "storyContent" : "You enter Ali Erkan's office. You're confused. Why would Ali's office be down here, he's always helped you out in the past during office hours. Ali greets you before asking you to find the asymptotic complexity of a very complex algorithm.That must be why his office is down here. Ali shows you mercy and lets you leave. If he had known your true mission, he may not have been so kind.",
+      "endNode" : false
+    },
+    "12" : {
+      "id" : 12,
+      "storyContent" : "You enter a prehistoric cave. It looks like the kind of place where the human race could have begun. Does this mean man is inherently evil? You shrug it off and continue searching when you stumble upon cave drawings. You get closer an-oh no... is that...assembly language??You run for your life back to the entrance. Such a primeval language is too spine-tingling for you to handle.",
+      "endNode" : false
+    },
+    "13" : {
+      "id" : 13,
+      "storyContent" : "You enter a dimly lit Williams 320. John Barr is sitting in the back corner typing away on his laptop. He immediately notices you and gives you an ultimatum: diffuse the binary bomb his TA Milo sneakily strapped to you while you weren't looking, or perish. It appears John holds the key to access the Ninth Circle of Hell, where James must be. With nothing to lose but everything to gain, you accept his challenge... But how good are you with assembly language?",
+      "endNode" : false
+    },
+    "14" : {
+      "id" : 14,
+      "storyContent" : "Looks like you had a pretty good hunch. You are successful. If only the author actually started working on his own bomb. John commends you for your acts of bravery and allows you passage to the Ninth Circle of Hell. Time for all this to finally pay off.",
+      "endNode" : false
+    },
+    "15" : {
+      "id" : 15,
+      "storyContent" : "Thought so. You fail miserably. Guess those Zoom lectures weren't as helpful as you thought.",
+      "endNode" : true
+    },
+    "16" : {
+      "id" : 16,
+      "storyContent" : "You enter the Roy H. Park School of Communications. You walk up the stairs past PPECS to find James standing behind the counter of the cafe, grinning. \"Took you long enough...\". You approach and notic-oh no... is that...TOBY??He is trapped behind one of the doors leading to central campus! You run to open the door and free him... but they still haven't fixed that damn door. \"To free your professor, you must list to me all of the principles of the agile manifesto. If you choose not to... well, let's just say the garbage collector will take care of him...\". You're too disgusted by his sick Java humor to even think about whether or not it actually made any sense. You run towards James with your weapon only to find yourself blocked from him. He declared himself as a private property... You must act now: give up and leave Toby to perish along with your dream of exacting revenge on Java's creator, or take on your mortal enemy:",
+      "endNode" : false
+    },
+    "17" : {
+      "id" : 17,
+      "storyContent" : "An automated email has been sent to Toby alerting him of your decision. You should be ashamed of yourself...",
+      "endNode" : true
+    },
+    "18" : {
+      "id" : 18,
+      "storyContent" : "You think back to the website that looks like it was made in 2004 that listed all those principles. Even the still-active website for SPACE JAM looks better than that. Nevertheless, you rattle off those principles like you learned them along with your ABC's. James is astonished. \"HOW?!?\" The door magically fixes itself somehow and opens, freeing Toby. Your conveying of information in face-to-face conversation, which according to the principles is the most efficient and effective method of doing so, must have inspired the door to act in your favor. James runs towards the both of you, leaving his guard down. You channel all of your anger into your blade and end your journey with one devastating blow. It's finally over. Toby thanks you for freeing him and commends you for your knowledge of agile development.",
+      "endNode" : true
+    }
+  },
+  "nodeConnections" : {
+    "1" : [ 2, 3 ],
+    "2" : [ 4 ],
+    "3" : [ 4 ],
+    "4" : [ 5, 6, 7, 8, 10, 11, 12, 13 ],
+    "5" : [ 4 ],
+    "6" : [ ],
+    "7" : [ 4 ],
+    "8" : [ 9, 4 ],
+    "9" : [ ],
+    "10" : [ 4 ],
+    "11" : [ 4 ],
+    "12" : [ 4 ],
+    "13" : [ 14, 15 ],
+    "14" : [ 16 ],
+    "15" : [ ],
+    "16" : [ 17, 18 ],
+    "17" : [ ],
+    "18" : [ ]
+  },
+  "nodeConditions" : {
+    "1" : [ "Hellblade", "Hellscythe" ],
+    "2" : [ "Begin journey" ],
+    "3" : [ "Begin journey" ],
+    "4" : [ "Circle One", "Circle Two", "Circle Three", "Circle Four", "Circle Five", "Circle Six", "Circle Seven", "Circle Eight" ],
+    "5" : [ "Go back" ],
+    "6" : [ ],
+    "7" : [ "Go back" ],
+    "8" : [ "Gofor it", "Go back" ],
+    "9" : [ ],
+    "10" : [ "Go back" ],
+    "11" : [ "Leave office" ],
+    "12" : [ "Escape" ],
+    "13" : [ "I think I got this", "Uh oh" ],
+    "14" : [ "Face your foe" ],
+    "15" : [ ],
+    "16" : [ "Give up", "Finish what you started" ],
+    "17" : [ ],
+    "18" : [ ]
+  },
+  "tags" : [ ],
+  "count" : 17,
+  "nextConditions" : [ ]
+}
